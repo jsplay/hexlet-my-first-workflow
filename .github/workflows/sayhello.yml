@@ -9,4 +9,4 @@ jobs:
         shell: bash
         working-directory: ./
     steps:
-      - run: make say-hello
+      - run: ./make say-hello
